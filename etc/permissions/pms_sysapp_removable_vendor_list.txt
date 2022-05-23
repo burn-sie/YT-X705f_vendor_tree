@@ -1,9 +1,0 @@
-com.google.android.apps.nbu.files
-com.yandex.browser
-ru.yandex.searchplugin
-com.skype.raider
-com.microsoft.office.outlook
-com.tblenovo.lenovoruapps
-com.microsoft.office.officehubrow
-com.microsoft.office.onenote
-
